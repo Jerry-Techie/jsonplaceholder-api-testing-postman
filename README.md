@@ -11,7 +11,7 @@ and error handling.
 
 API- https://jsonplaceholder.typicode.com/users
 
-There are 10 Predefined user details that are fetched from the above API.
+There is a maximum of10 Predefined user details that are fetched from the above API.
 
 ## Tools Used
 
