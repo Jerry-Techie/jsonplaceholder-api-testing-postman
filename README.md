@@ -7,9 +7,11 @@ API using Postman.
 
 The testing focused on CRUD operations, positive and negative
 test scenarios, status code validation, response validation,
-and error handling.
+and error handling. 
 
 API- https://jsonplaceholder.typicode.com/users
+
+There are 10 Predefined user details that are fetched from the above API.
 
 ## Tools Used
 
